@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pari Singh Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A an AI and ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parisinghchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="parisinghchauhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parisinghchauhan" alt="parisinghchauhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/PariSinghChauh" target="blank"><img src="https://img.shields.io/twitter/follow/parisinfhchau?logo=twitter&style=for-the-badge" alt="PariSinghChauh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PariSinghChauh" target="blank"><img src="https://img.shields.io/twitter/follow/PariSinhhChauh?logo=twitter&style=for-the-badge" alt="PariSinghChauh" /></a> </p>
 
 - 🔭 I’m currently working on [AuthenTech](https://github.com/Parisinghchauhan/Authentic)
 
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parisinghchauhan&show_icons=true&locale=en" alt="parisinghchauhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parisinghchauhan&" alt="parisinghchauhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghchauhan&" alt="ghchauhan" /></p>

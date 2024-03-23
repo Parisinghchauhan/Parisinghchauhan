@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m collaborating on [Heartify <3](https://github.com/chauhan/Heartify)
+- 👯 I’m collaborating on [Heartify <3](https://github.com/Parisinghchauhan/Heartify)
 
 - 🤝 I’m looking for help with [AuthenTech](https://github.com/Parisinghchauhan/Authentic)
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PariSinghChauh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PariSinghChauh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pari-singh-chauhan-7a633a252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pari-singh-chauhan-7a633a252" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parisinghchauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parisinghchauhan/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 </p>
 

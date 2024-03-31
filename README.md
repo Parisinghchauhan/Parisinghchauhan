@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pari Singh Chauhan</h1>
+<h1 align="center">Hello World👋, I'm Pari Singh Chauhan</h1>
 <h3 align="center">An AI and ML enthusiast from India</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=parisinghchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="parisinghchauhan" /> </p> -->
